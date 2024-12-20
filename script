@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/twistedwork/antiafk/refs/heads/main/antiafk.lua"))() is the script incase you dont understand the .lua
